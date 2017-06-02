@@ -24,6 +24,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+![demo](https://cloud.githubusercontent.com/assets/15274466/26706292/046972f4-46f1-11e7-963d-de2bd7fec4fd.gif)
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
